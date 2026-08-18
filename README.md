@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0043-multiply-strings/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
