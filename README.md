@@ -6,9 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
