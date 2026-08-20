@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,10 +44,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
