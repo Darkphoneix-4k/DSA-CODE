@@ -1,61 +1,42 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-
         unordered_map<char, int> need;
         unordered_map<char, int> window;
-
-        for (char c : t) {
-            need[c]++;
-        }
-
-        int left = 0;
-        int right = 0;
-
-        int required = need.size();
-        int formed = 0;
-
-        int minLen = INT_MAX;
+        int ans = s.size() + 1;
+        int l = 0;
+        int r = 0;
         int start = 0;
+        int length = 0;
+        for (char i : t) {
+            need[i]++;
+        }
+        int have = 0;
+        int required = need.size();
+        for (r = 0; r < s.size(); r++) {
+            window[s[r]]++;
+            if (window[s[r]] == need[s[r]]) {
+                have++;
 
-        while (right < s.size()) {
+                while (have == required) {
+                    if (r - l + 1 < ans) {
+                        ans = r - l + 1;
+                        start = l;
+                    }
 
-           
-            char c = s[right];
-            window[c]++;
+                    window[s[l]]--;
+                    if (window[s[l]] < need[s[l]]) {
+                        have--;
+                    }
 
-           
-            if (need.count(c) && window[c] == need[c]) {
-                formed++;
-            }
-
-           
-            while (formed == required) {
-
-              
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
+                    l++;
                 }
-
-            
-                char leftChar = s[left];
-                window[leftChar]--;
-
-                if (need.count(leftChar) &&
-                    window[leftChar] < need[leftChar]) {
-                    formed--;
-                }
-
-                left++;
             }
-
-            right++;
+        }
+        if (ans == s.size() + 1) {
+            return "";
         }
 
-        if (minLen == INT_MAX)
-            return "";
-
-        return s.substr(start, minLen);
+        return s.substr(start, ans);
     }
 };
