@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 <!---LeetCode Topics End-->
