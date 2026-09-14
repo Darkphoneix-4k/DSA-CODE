@@ -15,32 +15,31 @@ public:
     void flatten(TreeNode* root) {
         if (root == nullptr) return;
 
-        TreeNode* right = root->right;
-        TreeNode* curr = root->left;
+        // 1. First flatten the left subtree
+        flatten(root->left);
 
-        // Move left subtree to right
+        // 2. Save the original right subtree
+        TreeNode* right = root->right;
+
+        // 3. Move flattened left subtree to right
         root->right = root->left;
         root->left = nullptr;
 
-        // If there was a left subtree
-        if (curr != nullptr) {
+        // 4. Find the end of the flattened left subtree
+        TreeNode* curr = root;
 
-            // Find the last node of left subtree
-            while (curr->right != nullptr) {
-                curr = curr->right;
-            }
-
-            // Attach original right subtree
-            curr->right = right;
-        } else {
-            // No left subtree, so right remains where it was
-            root->right = right;
+        while (curr->right != nullptr) {
+            curr = curr->right;
         }
 
-        // Flatten the resulting right subtree
-        flatten(root->right);
+        // 5. Attach original right subtree
+        curr->right = right;
+
+        // 6. Flatten the original right subtree
+        flatten(right);
     }
 };
+
 
 
 
