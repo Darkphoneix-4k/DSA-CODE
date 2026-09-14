@@ -59,10 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -71,5 +73,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
