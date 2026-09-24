@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Binary Search
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,10 +169,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
