@@ -10,7 +10,6 @@ class Solution {
         }
     };
 
-   
     int m, n;
     Node* root;
     void insert(string word) {
@@ -35,8 +34,9 @@ public:
         char ch = board[r][c];
         int index = ch - 'a';
 
-        if (curr->child[index] == nullptr)
+        if (curr->child[index] == nullptr) {
             return;
+        }
 
         curr = curr->child[index];
 
@@ -49,19 +49,17 @@ public:
 
         board[r][c] = '#';
 
-        int dr[] = {-1, 1, 0, 0};
-        int dc[] = {0, 0, -1, 1};
+        if (r > 0 && board[r-1][c] != '#')
+            dfs(r - 1, c, curr, board, path, ans);
 
-        for (int k = 0; k < 4; k++) {
-            int nr = r + dr[k];
-            int nc = c + dc[k];
+        if (r + 1 < m && board[r+1][c] != '#')
+            dfs(r + 1, c, curr, board, path, ans);
 
-            if (nr >= 0 && nr < board.size() && nc >= 0 &&
-                nc < board[0].size() && board[nr][nc] != '#') {
+        if (c > 0 && board[r][c-1] != '#')
+            dfs(r, c - 1, curr, board, path, ans);
 
-                dfs(nr, nc, curr, board, path, ans);
-            }
-        }
+        if (c + 1 < n&& board[r][c+1] != '#')
+            dfs(r, c + 1, curr, board, path, ans);
 
         board[r][c] = ch;
         path.pop_back();
@@ -79,12 +77,12 @@ public:
         vector<string> ans;
         string path;
 
-        int rows = board.size();
-        int cols = board[0].size();
+        m = board.size();
+        n = board[0].size();
 
         // Start DFS from every cell
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
                 dfs(r, c, root, board, path, ans);
             }
         }
