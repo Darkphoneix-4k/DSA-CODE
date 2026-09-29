@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Greedy
@@ -229,11 +231,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
