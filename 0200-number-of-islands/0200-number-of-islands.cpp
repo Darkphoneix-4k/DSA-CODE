@@ -11,18 +11,29 @@ int n ;
         return ;
     }
     grid[r][c]='0';
-    if (r < m){
-        dfs (grid , r+1 , c);
-    }
-    if (r < m){
-        dfs (grid , r-1 , c);
-    }
-    if (c < n){
-        dfs (grid , r , c+1);
-    }
-    if (c < n){
-        dfs (grid , r , c-1);
-    }
+    // if (r < m){
+    //     dfs (grid , r+1 , c);
+    // }
+    // if (r < m){
+    //     dfs (grid , r-1 , c);
+    // }
+    // if (c < n){
+    //     dfs (grid , r , c+1);
+    // }
+    // if (c < n){
+    //     dfs (grid , r , c-1);
+    // }
+    int dr[] = {-1, 1, 0, 0};
+int dc[] = {0, 0, -1, 1};
+
+for (int k = 0; k < 4; k++) {
+    int nr = r + dr[k];
+    int nc = c + dc[k];
+
+    // check valid cell
+    // then DFS
+    dfs (grid , nr , nc);
+}
  }
 
     int numIslands(vector<vector<char>>& grid) {
