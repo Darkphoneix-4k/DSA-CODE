@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
