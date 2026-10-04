@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
