@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
