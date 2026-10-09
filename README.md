@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bit Manipulation
