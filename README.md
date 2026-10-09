@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0733-flood-fill](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0733-flood-fill/) | Easy |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Hash Table
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Tree
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
