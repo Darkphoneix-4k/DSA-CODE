@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -307,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
