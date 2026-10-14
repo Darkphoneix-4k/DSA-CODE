@@ -1,26 +1,25 @@
 class Solution {
 public:
-
     int m, n;
 
     void dfs(vector<vector<char>>& board, int r, int c) {
 
-        // Outside the board
-        if (r < 0 || r >= m || c < 0 || c >= n)
-            return;
-
-        // Only process O
         if (board[r][c] != 'O')
             return;
+        else{
+            board[r][c] = '#';
+        }
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
-        // Mark as safe
-        board[r][c] = '#';
+        for (int i = 0; i < 4; i++) {
+            int nr = r + dr[i];
+            int nc = c + dc[i];
 
-        // Four directions
-        dfs(board, r + 1, c);
-        dfs(board, r - 1, c);
-        dfs(board, r, c + 1);
-        dfs(board, r, c - 1);
+            if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
+                dfs(board, nr, nc);
+            }
+        }
     }
 
     void solve(vector<vector<char>>& board) {
