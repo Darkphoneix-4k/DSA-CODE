@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
