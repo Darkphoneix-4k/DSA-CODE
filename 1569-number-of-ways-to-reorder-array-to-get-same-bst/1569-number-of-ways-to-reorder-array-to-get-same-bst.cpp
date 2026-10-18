@@ -33,7 +33,7 @@ public:
        
         int n = nums.size();
 
-        // Pascal's triangle
+   
         C.assign(n + 1, vector<long long>(n + 1, 0));
 
         for (int i = 0; i <= n; i++) {
