@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
