@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0043-multiply-strings/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
