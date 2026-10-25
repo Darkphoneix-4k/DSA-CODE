@@ -1,58 +1,29 @@
 class Solution {
 public:
-int m; 
-int n ;
- void dfs (vector<vector<char>>& grid , int r , int c ){
-    
-    if (r < 0 || r >=m || c <0 || c >=n){
-        return ;
+    vector<vector<int>>dir={{1,0},{0,1},{0,-1},{-1,0}};
+    void dfs(int i,int j,vector<vector<int>>&vis,int r,int c,vector<vector<char>>&grid){
+        vis[i][j]=1;
+        for(int k=0;k<4;k++){
+            int nr=i+dir[k][0];
+            int nc=j+dir[k][1];
+            if(nr<r&&nr>=0&&nc<c&&nc>=0&&vis[nr][nc]==0&&grid[nr][nc]=='1'){
+                dfs(nr,nc,vis,r,c,grid);
+            }
+        }
     }
-    if (grid[r][c]=='0'){
-        return ;
-    }
-    grid[r][c]='0';
-    // if (r < m){
-    //     dfs (grid , r+1 , c);
-    // }
-    // if (r < m){
-    //     dfs (grid , r-1 , c);
-    // }
-    // if (c < n){
-    //     dfs (grid , r , c+1);
-    // }
-    // if (c < n){
-    //     dfs (grid , r , c-1);
-    // }
-    int dr[] = {-1, 1, 0, 0};
-int dc[] = {0, 0, -1, 1};
-
-for (int k = 0; k < 4; k++) {
-    int nr = r + dr[k];
-    int nc = c + dc[k];
-
-    // check valid cell
-    // then DFS
-    dfs (grid , nr , nc);
-}
- }
-
     int numIslands(vector<vector<char>>& grid) {
-         m = grid.size();
-         n = grid[0].size();
-         int total=0;
-         for (int i = 0; i < m ; i++){
-            for (int j = 0; j < n; j++){
-                if (grid[i][j]=='1'){
-                  total++;
-
-
-                  dfs (grid , i , j);
+        int r=grid.size();
+        int c=grid[0].size();
+        vector<vector<int>>vis(r,vector<int>(c,0));
+        int cnt=0;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(vis[i][j]==0 && grid[i][j]=='1'){
+                    dfs(i,j,vis,r,c,grid);
+                    cnt++;
                 }
-            
-         }
-
-         }
-         return total ;
-
+            }
+        }
+        return cnt;
     }
 };
