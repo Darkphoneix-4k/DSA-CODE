@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [0546-remove-boxes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0546-remove-boxes/) | Hard |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0546-remove-boxes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0546-remove-boxes/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -339,10 +341,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
