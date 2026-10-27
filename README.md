@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
+| [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [0546-remove-boxes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0546-remove-boxes/) | Hard |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0733-flood-fill](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0733-flood-fill/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
@@ -366,4 +370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
