@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0733-flood-fill](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0733-flood-fill/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
