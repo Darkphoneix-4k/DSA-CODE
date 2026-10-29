@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0546-remove-boxes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0546-remove-boxes/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0675-cut-off-trees-for-golf-event/) | Hard |
 | [0733-flood-fill](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0733-flood-fill/) | Easy |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Two Pointers
