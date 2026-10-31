@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
+| [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Prefix Sum
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
