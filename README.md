@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0518-coin-change-ii/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
 | [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0546-remove-boxes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0546-remove-boxes/) | Hard |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0518-coin-change-ii/) | Medium |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
 ## Enumeration
