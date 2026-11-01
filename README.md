@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0043-multiply-strings/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2409-count-days-spent-together/) | Easy |
