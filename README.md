@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0135-candy/) | Hard |
 | [0174-dungeon-game](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0135-candy](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0135-candy/) | Hard |
 | [0630-course-schedule-iii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0630-course-schedule-iii/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
