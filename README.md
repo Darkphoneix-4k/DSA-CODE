@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0630-course-schedule-iii/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
