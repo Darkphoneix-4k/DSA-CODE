@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0480-sliding-window-median/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
