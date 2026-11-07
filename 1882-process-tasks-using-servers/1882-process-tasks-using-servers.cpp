@@ -25,7 +25,7 @@ public:
 
             time = max(time, (long long)j);
 
-            // Release completed servers
+            
             while(!busy.empty() && get<0>(busy.top()) <= time) {
 
                 auto [finish, weight, idx] = busy.top();
@@ -34,7 +34,6 @@ public:
                 available.push({weight, idx});
             }
 
-            // If no server is free, jump to earliest finishing time
             if(available.empty()) {
 
                 time = get<0>(busy.top());
