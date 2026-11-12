@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3082-find-the-sum-of-the-power-of-all-subsequences/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
