@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0046-permutations/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0135-candy/) | Hard |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0046-permutations/) | Medium |
 | [0212-word-search-ii](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0212-word-search-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Darkphoneix-4k/DSA-CODE/tree/main/0494-target-sum/) | Medium |
