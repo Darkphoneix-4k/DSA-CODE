@@ -28,7 +28,7 @@ public:
 
     vector<vector<int>> permute(vector<int>& nums) {
         n = nums.size();
-        ans.clear();
+       // ans.clear();
 
         vector<int> temp;
         unordered_set<int> st;
